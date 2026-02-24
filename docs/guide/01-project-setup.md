@@ -129,8 +129,7 @@ mkdir -p src/config src/routes src/controllers src/services src/repositories src
 
 **Windows (Command Prompt):**
 ```cmd
-mkdir src\config src\routes src\controllers src\services src\repositories src\views\partials public\css
-```
+ ```
 
 **Windows (PowerShell):**
 ```powershell

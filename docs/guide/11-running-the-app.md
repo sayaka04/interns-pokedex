@@ -216,6 +216,10 @@ Full Name: Juan Dela Cruz
 Umindanao Email: j.delacruz.123456@umindanao.edu.ph"
 ```
 
+```cmd
+git commit -m "chore: add express application entry point" -m "Full Name: D***** ******* ****** Franco" -m "Umindanao: d.franco.******@umindanao.edu.ph"
+```
+
 3. Replace the name and email with your own information
 
 ---
@@ -227,6 +231,7 @@ Umindanao Email: j.delacruz.123456@umindanao.edu.ph"
 ```bash
 git push -u origin your-lastname/pokedex-pull-request
 ```
+
 
 2. Replace `your-lastname/pokedex-pull-request` with your actual branch name
 
